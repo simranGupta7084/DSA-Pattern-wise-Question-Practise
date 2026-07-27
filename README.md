@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -73,8 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
