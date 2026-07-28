@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -71,17 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0018-4sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0018-4sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
 | ------- |
