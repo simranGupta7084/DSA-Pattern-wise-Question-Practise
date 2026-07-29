@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
