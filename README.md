@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 ## Sliding Window
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
