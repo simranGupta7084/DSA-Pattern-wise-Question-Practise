@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
@@ -122,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
