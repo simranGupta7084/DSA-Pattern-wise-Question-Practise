@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0069-sqrtx) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
