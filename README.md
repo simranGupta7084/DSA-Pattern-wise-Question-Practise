@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 ## Design
