@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
