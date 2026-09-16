@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0021-merge-two-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 ## Design
 |  |
