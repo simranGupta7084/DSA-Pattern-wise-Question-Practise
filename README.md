@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
