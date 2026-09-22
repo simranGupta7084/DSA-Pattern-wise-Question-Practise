@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
