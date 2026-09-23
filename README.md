@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
+| [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
+| [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
