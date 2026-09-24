@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
