@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
