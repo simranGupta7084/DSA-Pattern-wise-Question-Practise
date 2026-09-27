@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1901-find-a-peak-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
