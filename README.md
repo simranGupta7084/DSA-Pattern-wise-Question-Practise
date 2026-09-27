@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 ## Backtracking
