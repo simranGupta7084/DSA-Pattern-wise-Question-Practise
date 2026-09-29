@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1590-make-sum-divisible-by-p) |
@@ -200,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 ## Depth-First Search
 |  |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
