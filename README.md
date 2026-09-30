@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0328-odd-even-linked-list) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0707-design-linked-list) |
 ## Depth-First Search
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Counting
 |  |
