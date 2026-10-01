@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
@@ -232,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
