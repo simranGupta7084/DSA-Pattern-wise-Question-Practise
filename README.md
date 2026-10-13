@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0443-string-compression) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
+| [1021-remove-outermost-parentheses](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
