@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0875-koko-eating-bananas) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1019-next-greater-node-in-linked-list) |
 ## Sliding Window
