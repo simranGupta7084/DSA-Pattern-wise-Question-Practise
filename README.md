@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -270,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1021-remove-outermost-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
