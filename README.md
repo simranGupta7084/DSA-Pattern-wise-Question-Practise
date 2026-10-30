@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
@@ -275,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Lifting
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
