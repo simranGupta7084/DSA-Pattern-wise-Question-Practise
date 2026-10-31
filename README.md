@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0819-most-common-word) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Doubly-Linked List
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Lifting
 |  |
@@ -301,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simranGupta7084/DSA-Pattern-wise-Question-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
